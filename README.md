@@ -1,5 +1,5 @@
  # Assignment1: RISC-V Assembly and Instruction Pipeline
-
+WEI
 ## Add Binary--Leetcode 67
 The main idea here is that we would get **two binary number in string format**, then we need to change the this two binary to real **binary format**. Finally we would **sum this two binary** number then print out the final answer!
 ## C code
